@@ -10,3 +10,10 @@
 * We can divide the data into k different sets which are exclusive of each other. This is known as k-fold cross-validation.
 * Q: how to implement it?
 * Q: 如果数据有偏差时怎么办？ 
+
+#### Problem 3
+* 数据预处理能力，是每个ds或者researcher的必备能力，如何有效的清理数据？
+* Q：数据清洗有下面几个诉求
+1. 数字列标准化(x - mean) / variance  
+2. 数字列如果有NaN值，用0值填充
+3. 非数字列使用one hot技术打平
