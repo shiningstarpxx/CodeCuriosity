@@ -13,6 +13,11 @@ encoded_data = rs.encode(data)
 encoded_data[2] = 255
 encoded_data[6] = 255
 
+# 模拟数据块损坏 (例如损坏第 2 和第 6 个块)
+# del encoded_data[6]
+# del encoded_data[2]
+# reedsolo.ReedSolomonError: Too many (or few) errors found by Chien Search for the errata locator polynomial!
+
 # 解码数据
 decoded_data = rs.decode(encoded_data)[0]
 
