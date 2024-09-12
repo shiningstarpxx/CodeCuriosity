@@ -56,8 +56,20 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        return self.binarySearch(nums)
+        # return self.binarySearch(nums)
+        n = len(nums)
+        nums.sort()
+        l, r = 0, n // 2
+        res = 0
+        while l < n // 2:
+            while r < n and 2 * nums[l] > nums[r]:
+                r += 1
+            if r < n:
+                res += 2
+                r += 1
+            l += 1
 
+        return res
 
 
     def binarySearch(self, nums):
