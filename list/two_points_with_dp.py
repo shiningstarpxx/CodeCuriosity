@@ -61,5 +61,11 @@ class Solution(object):
             res = max(res, right - left + 1 + dp[left])
             dp[right + 1] = max(dp[right], right - left + 1)
             right += 1
+
+        # binary search style
+        # for i in range (n):
+        #     x = bisect.bisect_left(prizePositions, prizePositions[i] - k)
+        #     res = max(res, i - x + 1 + dp[x])
+        #     dp[i + 1] = max(dp[i], i - x + 1)
         return res
 # leetcode submit region end(Prohibit modification and deletion)
