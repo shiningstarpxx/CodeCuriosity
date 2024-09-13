@@ -41,6 +41,10 @@
 #
 #  Related Topics 队列 数组 二分查找 前缀和 滑动窗口 堆（优先队列） 👍 61 👎 0
 
+# 几个关键能力
+# 1. monotonic stack - 同时还是双端的
+# 2. 双指针
+# 3. 前缀和
 
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution(object):
