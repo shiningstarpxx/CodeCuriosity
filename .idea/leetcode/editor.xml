@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[1014]最佳观光组合.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[1014]最佳观光组合.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1014" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[1014]最佳观光组合.py" />
+              <option name="titleSlug" value="best-sightseeing-pair" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[1184]公交站间的距离.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[1184]公交站间的距离.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1184" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[1184]公交站间的距离.py" />
+              <option name="titleSlug" value="distance-between-bus-stops" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[1227]飞机座位分配概率.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[1227]飞机座位分配概率.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1227" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[1227]飞机座位分配概率.py" />
+              <option name="titleSlug" value="airplane-seat-assignment-probability" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[1845]座位预约管理系统.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[1845]座位预约管理系统.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1845" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[1845]座位预约管理系统.py" />
+              <option name="titleSlug" value="seat-reservation-manager" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[1928]规定时间内到达终点的最小花费.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[1928]规定时间内到达终点的最小花费.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1928" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[1928]规定时间内到达终点的最小花费.py" />
+              <option name="titleSlug" value="minimum-cost-to-reach-destination-in-time" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2073]买票需要的时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2073]买票需要的时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2073" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2073]买票需要的时间.py" />
+              <option name="titleSlug" value="time-needed-to-buy-tickets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2181]合并零之间的节点.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2181]合并零之间的节点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2181" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2181]合并零之间的节点.py" />
+              <option name="titleSlug" value="merge-nodes-in-between-zeros" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2187]完成旅途的最少时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2187]完成旅途的最少时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2187" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2187]完成旅途的最少时间.py" />
+              <option name="titleSlug" value="minimum-time-to-complete-trips" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2207]字符串中最多数目的子序列.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2207]字符串中最多数目的子序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2207" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2207]字符串中最多数目的子序列.py" />
+              <option name="titleSlug" value="maximize-number-of-subsequences-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2306]公司命名.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2306]公司命名.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2306" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2306]公司命名.py" />
+              <option name="titleSlug" value="naming-a-company" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2332]坐上公交的最晚时间.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2332]坐上公交的最晚时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2332" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2332]坐上公交的最晚时间.py" />
+              <option name="titleSlug" value="the-latest-time-to-catch-a-bus" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2376]统计特殊整数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2376]统计特殊整数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2376" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2376]统计特殊整数.py" />
+              <option name="titleSlug" value="count-special-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2390]从字符串中移除星号.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2390]从字符串中移除星号.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2390" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2390]从字符串中移除星号.py" />
+              <option name="titleSlug" value="removing-stars-from-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2398]预算内的最多机器人数目.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2398]预算内的最多机器人数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2398" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2398]预算内的最多机器人数目.py" />
+              <option name="titleSlug" value="maximum-number-of-robots-within-budget" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2414]最长的字母序连续子字符串的长度.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2414]最长的字母序连续子字符串的长度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2414" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2414]最长的字母序连续子字符串的长度.py" />
+              <option name="titleSlug" value="length-of-the-longest-alphabetical-continuous-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2516]每种字符至少取 K 个.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2516]每种字符至少取 K 个.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2516" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2516]每种字符至少取 K 个.py" />
+              <option name="titleSlug" value="take-k-of-each-character-from-left-and-right" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2535]数组元素和与数字和的绝对差.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2535]数组元素和与数字和的绝对差.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2535" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2535]数组元素和与数字和的绝对差.py" />
+              <option name="titleSlug" value="difference-between-element-sum-and-digit-sum-of-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2552]统计上升四元组.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2552]统计上升四元组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2552" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2552]统计上升四元组.py" />
+              <option name="titleSlug" value="count-increasing-quadruplets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2555]两个线段获得的最多奖品.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2555]两个线段获得的最多奖品.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2555" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2555]两个线段获得的最多奖品.py" />
+              <option name="titleSlug" value="maximize-win-from-two-segments" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2576]求出最多标记下标.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2576]求出最多标记下标.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2576" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2576]求出最多标记下标.py" />
+              <option name="titleSlug" value="find-the-maximum-number-of-marked-indices" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2987]寻找房价最贵的城市.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[2987]寻找房价最贵的城市.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2987" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[2987]寻找房价最贵的城市.py" />
+              <option name="titleSlug" value="find-expensive-cities" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[3176]求出最长好子序列 I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[3176]求出最长好子序列 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3176" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[3176]求出最长好子序列 I.py" />
+              <option name="titleSlug" value="find-the-maximum-length-of-a-good-subsequence-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[739]每日温度.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[739]每日温度.md" />
+              <option name="frontendQuestionId" value="leetcode.cn739" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[739]每日温度.py" />
+              <option name="titleSlug" value="daily-temperatures" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[815]公交路线.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/doc/content/[815]公交路线.md" />
+              <option name="frontendQuestionId" value="leetcode.cn815" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/18/h7rdqpd56pd35m0953zdd5640000gn/T/leetcode/editor/cn/[815]公交路线.py" />
+              <option name="titleSlug" value="bus-routes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
