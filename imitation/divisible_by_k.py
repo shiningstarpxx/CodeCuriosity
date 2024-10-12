@@ -42,6 +42,7 @@
 #
 #
 #  Related Topics 数组 哈希表 👍 11 👎 0
+from collections import Counter
 
 
 # leetcode submit region begin(Prohibit modification and deletion)
